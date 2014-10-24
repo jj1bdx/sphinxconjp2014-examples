@@ -2,7 +2,12 @@
 
 ## System requirements for the document generation
 
-* [Sphinx](http://sphinx-doc.org/) (tested under the Version 1.2.3)
+* [Sphinx](http://sphinx-doc.org/)
+    * Tested on Sphinx Version 1.2.3
+    * Tested on OS X 10.10 and FreeBSD 10.1-PRERELEASE
+* [TeX Live](https://www.tug.org/texlive/)
+    * FreeBSD: [Port print/texlive-full](http://www.freshports.org/print/texlive-full/)
+    * OS X: [MacTeX](https://www.tug.org/mactex/) (Use MacTeX-2014)
 
 ## System requirements for testing the code
 
