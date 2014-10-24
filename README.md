@@ -2,7 +2,7 @@
 
 ## System requirements for the document generation
 
-* [Sphinx](http://sphinx-doc.org/)
+* [Sphinx](http://sphinx-doc.org/) (tested under the Version 1.2.3)
 
 ## System requirements for testing the code
 
@@ -13,10 +13,12 @@
 
     cd doc-src/
     make clean html latexpdfja
+    # open _build/html/index.html for the HTML docs
+    # open _build/pdf/LaTeXtestdocforSphinxConJP2014.pdf for the PDF docs
 
 ## License
 
-Dual-licensed as The MIT License + CC-BY-4.0.
+Dual-licensed with The MIT License and CC-BY-4.0.
 
 ## Author
 
