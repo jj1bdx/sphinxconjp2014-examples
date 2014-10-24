@@ -110,7 +110,7 @@ The execution result of this code is:
 A ring buffer in Erlang
 ***********************
 
-Here, another example of loop using a ring buffer, which maintaines a
+Here, another example of loop using a ring buffer, which maintaine a
 fixed number of elements in the buffer structure, shifting each element
 one by one, with the new element added every time at the tail.
 
@@ -131,7 +131,7 @@ In the following example, a ring buffer list is split into two lists
   `head` of the list ``RL``.
 
 * When ``L`` becomes a null list, a reversed list of ``RL`` computed by
-  ``lists:reverse/1`` is assigned as the new ``L``, and a null list is
+  ``lists:reverse/1`` is assigned to the new ``L``, and a null list is
   assigned to the new ``RL``.
 
 Here is an example of the code:
