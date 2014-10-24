@@ -46,10 +46,10 @@ The execution result of this code is:
    one two three
 
 Loop in Erlang
-**************
+^^^^^^^^^^^^^^
 
 A simple recursive loop
-^^^^^^^^^^^^^^^^^^^^^^^
+***********************
 
 In Erlang_, you need to make a recursive function to iterate:
 
