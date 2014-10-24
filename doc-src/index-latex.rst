@@ -10,6 +10,17 @@ LaTeX test doc for SphinxConJP 2014
 .. raw:: latex
 
    %%%
+   %%% Disable all chapter/section numbering
+   \setcounter{secnumdepth}{-2}
+   %%%
+
+.. toctree::
+
+   license
+
+.. raw:: latex
+
+   %%%
    %%% Max toctree level: 1.2.3
    \setcounter{secnumdepth}{2}
    %%% Reset all counters

@@ -7,6 +7,13 @@
 LaTeX test doc for SphinxConJP 2014
 ###################################
 
+Contents
+========
+
+.. toctree::
+
+   license
+
 .. toctree::
    :maxdepth: 4
    :numbered: 3
