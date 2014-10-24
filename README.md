@@ -2,12 +2,12 @@
 
 ## System requirements for the document generation
 
-* (Sphinx)[http://sphinx-doc.org/]
+* [Sphinx](http://sphinx-doc.org/)
 
 ## System requirements for testing the code
 
-* (Python 3[http://www.python.org/]
-* (Erlang/OTP)[http://www.erlang.org]
+* [Python 3](http://www.python.org/)
+* [Erlang/OTP](http://www.erlang.org)
 
 ## How to compile
 
