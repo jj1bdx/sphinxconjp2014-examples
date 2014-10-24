@@ -18,7 +18,7 @@
 
 ## License
 
-Dual-licensed with The MIT License and CC-BY-4.0.
+Dual-licensed under The MIT License and CC-BY-4.0.
 
 ## Author
 
