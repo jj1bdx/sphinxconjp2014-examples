@@ -21,6 +21,12 @@
     # open _build/html/index.html for the HTML docs
     # open _build/pdf/LaTeXtestdocforSphinxConJP2014.pdf for the PDF docs
 
+## Example files
+
+* doc-src/: source directory
+* LaTeXtestdocforSphinxConJP2014.pdf: LaTeX output example
+* sphinxconjp-latex-manual.pdf: Slides in Japanese
+
 ## License
 
 Dual-licensed under The MIT License and CC-BY-4.0.
@@ -29,3 +35,6 @@ Dual-licensed under The MIT License and CC-BY-4.0.
 
 Kenji Rikitake
 
+## Slides in Japanese at speakerdeck.com
+
+[Slides in speakerdeck.com](https://speakerdeck.com/jj1bdx/sphinxcon-jp-2014-presentation-sphinxtolatexdezuo-ruying-wen-maniyuaru)
